@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a girl who likes programming and has been doing so for 3 years. I'm working on learning the C languages as of now.
+Just a girl who likes programming and has been doing so for 3 years. I'm working on learning the C languages.
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/b74e8ee2-20da-43b2-9870-a744d2529d25)
@@ -12,6 +12,14 @@ Just a girl who likes programming and has been doing so for 3 years. I'm working
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake.svg" />
+</picture>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -37,9 +45,3 @@ Just a girl who likes programming and has been doing so for 3 years. I'm working
 [![](https://visitcount.itsvg.in/api?id=BananKing1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BananKing1/BananKing1/output/github-snake.svg" />
-</picture>
