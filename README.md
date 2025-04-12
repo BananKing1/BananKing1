@@ -24,7 +24,8 @@ I'm working on learning the C languages.
 ![](https://github-profile-trophy.vercel.app/?username=BananKing1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)    ![](https://nirzak-streak-stats.vercel.app/?user=BananKing1&theme=tokyonight&hide_border=true)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)    ![](https://nirzak-streak-stats.vercel.app/?user=BananKing1&theme=tokyonight&hide_border=true) 
+<br>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
