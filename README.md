@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm working on learning the C languages.
+Just a girl who likes programming and has been doing so for 3 years. I'm working on learning the C languages as of now.
+
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/b74e8ee2-20da-43b2-9870-a744d2529d25)
+
 
 
 # 💻 Tech Stack:
