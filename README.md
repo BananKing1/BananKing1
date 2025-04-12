@@ -10,8 +10,8 @@ I'm working on learning the C languages.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=BananKing1&theme=dark&hide_border=false)<br/>
-![work-office](https://github.com/user-attachments/assets/60a5d0a9-4a72-4a96-906a-8c672f897963)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BananKing1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BananKing1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   ![](https://nirzak-streak-stats.vercel.app/?user=BananKing1&theme=dark&hide_border=false)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BananKing1&icon=0&color=0)](https://visitcount.itsvg.in)
