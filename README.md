@@ -11,10 +11,6 @@ I'm working on learning the C languages.
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 
-
-
-![nyan-cat-original](https://github.com/user-attachments/assets/19d953d2-0bad-4d81-8221-58569ba2f673)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BananKing1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BananKing1&theme=tokyonight&hide_border=true)<br/>
